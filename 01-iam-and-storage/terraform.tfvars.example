@@ -1,0 +1,4 @@
+tenancy_ocid     = "ocid1.tenancy.oc1..exemplo"
+compartment_ocid = "ocid1.tenancy.oc1..exemplo" # ou OCID do compartimento raiz
+user_group_name  = "Administrators"
+region           = "sa-saopaulo-1"
