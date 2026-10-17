@@ -1,0 +1,5 @@
+tenancy_ocid     = "ocid1.tenancy.oc1..exemplo"
+compartment_ocid = "ocid1.tenancy.oc1..exemplo"
+region           = "sa-saopaulo-1"
+db_admin_password = "SuaSenhaFort3aqui!"
+db_name          = "genaiadb"
