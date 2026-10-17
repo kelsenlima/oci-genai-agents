@@ -1,0 +1,5 @@
+tenancy_ocid     = "ocid1.tenancy.oc1..exemplo"
+compartment_ocid = "ocid1.tenancy.oc1..exemplo"
+region           = "sa-saopaulo-1"
+knowledge_base_name = "kb-artigos-suporte"
+agent_name       = "customer-support-agent"
