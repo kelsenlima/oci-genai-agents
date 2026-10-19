@@ -1,0 +1,20 @@
+{
+  "test_suite": "OCI GenAI Customer Support Agent Validation",
+  "prompts": [
+    {
+      "id": 1,
+      "category": "Knowledge Base / RAG Retrieval",
+      "prompt": "Como posso resolver o problema de conectividade de rede relatado pelos clientes?"
+    },
+    {
+      "id": 2,
+      "category": "Autonomous Database Integration",
+      "prompt": "Liste os últimos tickets de suporte abertos e Ordene por prioridade alta."
+    },
+    {
+      "id": 3,
+      "category": "Reasoning & Summarization",
+      "prompt": "Resuma os principais passos para solucionar falhas na aplicação de suporte."
+    }
+  ]
+}
